@@ -1,7 +1,7 @@
 title: "CIS 7000: Provably Secure Systems with Cryptography"
 description: "University of Pennsylvania, Fall 2026"
 url: ""
-baseurl: ""
+baseurl: "/cis7000-fall2026"
 
 permalink: pretty
 markdown: kramdown
