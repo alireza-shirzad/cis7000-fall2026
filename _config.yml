@@ -1,0 +1,22 @@
+title: "CIS 7000: Provably Secure Systems with Cryptography"
+description: "University of Pennsylvania, Fall 2026"
+url: ""
+baseurl: ""
+
+permalink: pretty
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - .bundle
+
+plugins:
+  - jekyll-seo-tag
