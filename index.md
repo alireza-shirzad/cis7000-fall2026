@@ -11,7 +11,7 @@ description: "University of Pennsylvania, Fall 2026"
 ## Basics
 
 <ul class="basics">
-  <li><strong>Instructors</strong> Anubhav Baweja, <a href="https://pratyush.zip/">Pratyush Mishra</a>, Alireza Shirzad</li>
+  <li><strong>Instructors</strong> <a href="https://randomshuffle.github.io/">Anubhav Baweja</a>, <a href="https://pratyush.zip/">Pratyush Mishra</a>, <a href="https://alireza-shirzad.github.io/">Alireza Shirzad</a></li>
   <li><strong>Meetings</strong> Mondays and Wednesdays, 10:15&ndash;11:45 AM</li>
   <li><strong>Location</strong> TBD</li>
   <li><strong>Office hours</strong> By appointment</li>
